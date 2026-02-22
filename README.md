@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! This is my repo and all the projects here. I will post any changes and update my personal projects here.
 
 <!--
 **yang20061119-cell/yang20061119-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
